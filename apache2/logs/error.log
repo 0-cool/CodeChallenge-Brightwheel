@@ -1,0 +1,32 @@
+[Wed Jan 26 10:05:41.143693 2022] [ssl:warn] [pid 24680:tid 616] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:05:41.171461 2022] [ssl:warn] [pid 24680:tid 616] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:05:41.212631 2022] [mpm_winnt:notice] [pid 24680:tid 616] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/7.4.27 configured -- resuming normal operations
+[Wed Jan 26 10:05:41.212688 2022] [mpm_winnt:notice] [pid 24680:tid 616] AH00456: Apache Lounge VC15 Server built: Dec 23 2021 11:00:40
+[Wed Jan 26 10:05:41.212740 2022] [core:notice] [pid 24680:tid 616] AH00094: Command line: 'C:\\Bitnami\\WORDPR~1.3-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/wordpress-5.8.3-0/apache2 -f C:\\Bitnami\\WORDPR~1.3-0\\apache2\\conf\\httpd.conf'
+[Wed Jan 26 10:05:41.223423 2022] [mpm_winnt:notice] [pid 24680:tid 616] AH00418: Parent: Created child process 1600
+[Wed Jan 26 10:05:41.689359 2022] [ssl:warn] [pid 1600:tid 860] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:05:41.714665 2022] [ssl:warn] [pid 1600:tid 860] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:05:41.727731 2022] [mpm_winnt:notice] [pid 1600:tid 860] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 26 10:05:49.200366 2022] [mpm_winnt:notice] [pid 24680:tid 616] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 26 10:05:51.224154 2022] [mpm_winnt:notice] [pid 1600:tid 860] AH00364: Child: All worker threads have exited.
+[Wed Jan 26 10:05:51.278846 2022] [mpm_winnt:notice] [pid 24680:tid 616] AH00430: Parent: Child process 1600 exited successfully.
+[Wed Jan 26 10:05:53.400600 2022] [ssl:warn] [pid 20152:tid 408] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:05:53.439621 2022] [ssl:warn] [pid 20152:tid 408] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:05:53.468323 2022] [mpm_winnt:notice] [pid 20152:tid 408] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/7.4.27 configured -- resuming normal operations
+[Wed Jan 26 10:05:53.468323 2022] [mpm_winnt:notice] [pid 20152:tid 408] AH00456: Apache Lounge VC15 Server built: Dec 23 2021 11:00:40
+[Wed Jan 26 10:05:53.468323 2022] [core:notice] [pid 20152:tid 408] AH00094: Command line: 'C:\\Bitnami\\WORDPR~1.3-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/wordpress-5.8.3-0/apache2 -f C:\\Bitnami\\WORDPR~1.3-0\\apache2\\conf\\httpd.conf'
+[Wed Jan 26 10:05:53.482895 2022] [mpm_winnt:notice] [pid 20152:tid 408] AH00418: Parent: Created child process 10184
+[Wed Jan 26 10:05:54.111375 2022] [ssl:warn] [pid 10184:tid 740] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:05:54.145361 2022] [ssl:warn] [pid 10184:tid 740] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:05:54.161780 2022] [mpm_winnt:notice] [pid 10184:tid 740] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 26 10:06:04.081483 2022] [mpm_winnt:notice] [pid 20152:tid 408] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 26 10:06:06.097083 2022] [mpm_winnt:notice] [pid 10184:tid 740] AH00364: Child: All worker threads have exited.
+[Wed Jan 26 10:06:06.132426 2022] [mpm_winnt:notice] [pid 20152:tid 408] AH00430: Parent: Child process 10184 exited successfully.
+[Wed Jan 26 10:06:08.059677 2022] [ssl:warn] [pid 9516:tid 380] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:06:08.092268 2022] [ssl:warn] [pid 9516:tid 380] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:06:08.105519 2022] [mpm_winnt:notice] [pid 9516:tid 380] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/7.4.27 configured -- resuming normal operations
+[Wed Jan 26 10:06:08.105519 2022] [mpm_winnt:notice] [pid 9516:tid 380] AH00456: Apache Lounge VC15 Server built: Dec 23 2021 11:00:40
+[Wed Jan 26 10:06:08.105519 2022] [core:notice] [pid 9516:tid 380] AH00094: Command line: 'C:\\Bitnami\\WORDPR~1.3-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/wordpress-5.8.3-0/apache2 -f C:\\Bitnami\\WORDPR~1.3-0\\apache2\\conf\\httpd.conf'
+[Wed Jan 26 10:06:08.116478 2022] [mpm_winnt:notice] [pid 9516:tid 380] AH00418: Parent: Created child process 19600
+[Wed Jan 26 10:06:08.836282 2022] [ssl:warn] [pid 19600:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Jan 26 10:06:08.876737 2022] [ssl:warn] [pid 19600:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
